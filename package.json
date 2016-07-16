@@ -5,6 +5,7 @@
     "express": "^4.10.6",
     "mysql": "^2.5.4",
     "async": "*",
-    "knex": "*"
+    "knex": "*", 
+    "bluebird": "*"
  }
 }
